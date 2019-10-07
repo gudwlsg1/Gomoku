@@ -22,8 +22,8 @@ namespace Gomoku
             this.MouseDown += CheckerBoard_MouseDown;
 
             pen = new Pen(Color.Black);
-            wBrush = new SolidBrush(Color.White);
-            bBrush = new SolidBrush(Color.Black);
+            wBrush = new SolidBrush(Color.Red);
+            bBrush = new SolidBrush(Color.Yellow);
         }
 
         #region 바둑알 그리기
