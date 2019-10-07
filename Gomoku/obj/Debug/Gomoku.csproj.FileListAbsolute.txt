@@ -1,0 +1,9 @@
+C:\Users\Huen\source\repos\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\Huen\source\repos\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\Huen\source\repos\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\Huen\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+C:\Users\Huen\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.CheckerBoard.resources
+C:\Users\Huen\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\Huen\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\Huen\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\Huen\source\repos\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
